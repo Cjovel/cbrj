@@ -1,7 +1,7 @@
 @extends('homepage.template');
 
 @section('pageTitle')
-    Home
+    Contact Us
 @endsection
 
 @section('pageContent')
